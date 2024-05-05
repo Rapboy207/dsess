@@ -1,0 +1,16 @@
+
+<html>
+    <h1>
+        Hey, I'm dses
+    </h1>
+    <body>
+        <h2>About me</h2>
+        <p>
+            I am a video game addict who makes yt vids sometimes.
+        </p>
+        <h2>What I'm working on</h2>
+        <p>
+            tryna pass school :/
+        </p>
+    </body>
+</html>
